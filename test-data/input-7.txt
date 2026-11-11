@@ -1,0 +1,3 @@
+# Create a ship that always fails on first one but never on the second
+GT4500,10,1,10,0
+TORPEDO,ALL  # should fail
